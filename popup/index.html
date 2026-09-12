@@ -31,7 +31,7 @@
         <div class="brand">
           <div class="logo"><span>♞</span></div>
           <div class="brand-text">
-            <div class="brand-name">ChessHv3 <span class="ver">v10.0</span></div>
+            <div class="brand-name">ChessHv3 <span class="ver">v10.1</span></div>
             <div class="brand-sub" data-i18n="subtitle">Engine Control Center</div>
           </div>
         </div>
@@ -101,8 +101,8 @@
                   <small data-i18n="engineHelp">Choose which chess engine to run for analysis and gameplay.</small>
                 </div>
                 <select id="engine">
-                  <option selected value="komodo">♞ Komodo 3.3 · Elo + Book + Style</option>
-                  <option value="stockfish">♜ Stockfish 18 · Raw power</option>
+                  <option selected value="komodo">♞ Komodo 3.3 · Stable + Book (Recommended)</option>
+                  <option value="stockfish">♜ Stockfish 18 · Strongest, needs fast device</option>
                   <option value="torch">🔥 Torch · Neural style</option>
                 </select>
               </div>
@@ -135,12 +135,21 @@
 
               <div class="setting">
                 <div class="s-label">
-                  <span><span data-i18n="depth">Depth</span> <b class="val" id="depthValue">10</b></span>
+                  <span><span data-i18n="depth">Depth</span> <b class="val" id="depthValue">12</b></span>
                   <small data-i18n="depthHelp">Search depth — higher is stronger but slower.</small>
                 </div>
-                <input type="range" id="depth" min="1" max="15" value="5" />
+                <input type="range" id="depth" min="1" max="30" value="12" />
               </div>
               <div class="tip" data-i18n-html="depthTip">Slow device? Use depth <b>4–6</b>.</div>
+
+              <div class="setting">
+                <div class="s-label">
+                  <span><span data-i18n="hash">Hash</span> <b class="val"><span id="hashValue">128</span> MB</b></span>
+                  <small data-i18n="hashHelp">Engine hash memory. Higher = better deep calculation.</small>
+                </div>
+                <input type="range" id="hash" min="16" max="256" step="16" value="128" />
+              </div>
+              <div class="tip" data-i18n-html="hashTip">Takes effect after <b>reloading</b> the chess page.</div>
             </div>
 
             <!-- Arrows & Display -->
@@ -394,7 +403,7 @@
               class="load-textarea"
               id="loadInput"
               spellcheck="false"
-              placeholder='{ "elo": 3500, "lines": 5, "depth": 10, ... }'
+              placeholder='{ "elo": 3500, "lines": 5, "depth": 12, "hash": 128, ... }'
             ></textarea>
             <div class="action-row">
               <button class="btn primary" id="loadBtn">
@@ -432,7 +441,7 @@
       </main>
 
       <footer class="footer">
-        <span>♞ ChessHv3 v10.0</span>
+        <span>♞ ChessHv3 v10.1</span>
         <span class="footer-dot">•</span>
         <span data-i18n="footer">Made for chess lovers — play smart, play fair.</span>
       </footer>

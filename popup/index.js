@@ -35,7 +35,9 @@ const I18N = {
     eloTip: "Recommended: <b>max ELO</b> with accuracy display ON.",
     style: "Style", styleHelp: "Preferred playstyle of the engine.",
     depth: "Depth", depthHelp: "Search depth — higher is stronger but slower.",
-    depthTip: "Slow device? Use depth <b>4–6</b>.",
+    depthTip: "Bullet <b>10–12</b> · Blitz <b>14–18</b> · Rapid <b>20+</b>. Slow device? <b>4–6</b>.",
+    hash: "Hash", hashHelp: "Engine hash memory — higher is better for deep calculation.",
+    hashTip: "Takes effect after <b>reloading</b> the chess page.",
     arrows: "Arrows", arrowsHelp: "Number of best-move arrows on the board.",
     arrowColors: "Arrow colors", arrowColorsHelp: "Customize colors for the top 5 engine moves.",
     presets: "Presets:",
@@ -82,7 +84,9 @@ const I18N = {
     eloTip: "Khuyên dùng: <b>ELO tối đa</b> + bật hiển thị độ chính xác.",
     style: "Phong cách", styleHelp: "Lối chơi ưa thích của engine.",
     depth: "Độ sâu", depthHelp: "Độ sâu tìm kiếm — càng cao càng mạnh nhưng càng chậm.",
-    depthTip: "Máy yếu? Dùng độ sâu <b>4–6</b>.",
+    depthTip: "Bullet <b>10–12</b> · Blitz <b>14–18</b> · Rapid <b>20+</b>. Máy yếu? <b>4–6</b>.",
+    hash: "Hash", hashHelp: "Bộ nhớ hash của engine — càng cao tính sâu càng tốt.",
+    hashTip: "Cần <b>tải lại trang</b> cờ thì mới có hiệu lực.",
     arrows: "Mũi tên", arrowsHelp: "Số mũi tên nước đi tốt nhất hiển thị trên bàn.",
     arrowColors: "Màu mũi tên", arrowColorsHelp: "Tùy chỉnh màu cho 5 nước đi tốt nhất.",
     presets: "Mẫu có sẵn:",
@@ -183,7 +187,8 @@ const defaultChessConfig = {
   elo: 3500,
   lines: 5,
   colors: ["#4f8cff", "#2ecc71", "#f1c40f", "#e67e22", "#e74c3c"],
-  depth: 10,
+  depth: 12,
+  hash: 128,
   delay: 100,
   style: "Default",
   autoMove: false,
@@ -237,7 +242,7 @@ function paintRange(input) {
   input.style.setProperty("--fill", pct + "%");
 }
 function paintAllRanges() {
-  ["elo", "lines", "depth", "delay"].forEach((k) => paintRange(el(k)));
+  ["elo", "lines", "depth", "hash", "delay"].forEach((k) => paintRange(el(k)));
 }
 
 function updateToggleLabels() {
@@ -280,7 +285,7 @@ function refreshStatus() {
 }
 
 function updateChessUI() {
-  ["elo", "lines", "depth", "delay"].forEach((k) => { if (el(k)) el(k).value = chessConfig[k]; });
+  ["elo", "lines", "depth", "hash", "delay"].forEach((k) => { if (el(k)) el(k).value = chessConfig[k]; });
   if (el("style")) el("style").value = chessConfig.style;
   if (el("key")) el("key").value = chessConfig.key;
   if (el("engine")) el("engine").value = chessConfig.engine;
@@ -293,6 +298,7 @@ function updateChessUI() {
   if (el("eloValue")) el("eloValue").textContent = chessConfig.elo;
   if (el("linesValue")) el("linesValue").textContent = chessConfig.lines;
   if (el("depthValue")) el("depthValue").textContent = chessConfig.depth;
+  if (el("hashValue")) el("hashValue").textContent = chessConfig.hash;
   if (el("delayValue")) el("delayValue").textContent = chessConfig.delay;
 
   updateToggleLabels();
@@ -306,7 +312,7 @@ function saveChess() { saveChessConfig(); }
 loadChessConfig(updateChessUI);
 
 /* ================= INPUT HANDLERS ================= */
-["elo", "lines", "depth", "delay"].forEach((k) => {
+["elo", "lines", "depth", "hash", "delay"].forEach((k) => {
   const input = el(k);
   if (!input) return;
   input.oninput = (e) => {
