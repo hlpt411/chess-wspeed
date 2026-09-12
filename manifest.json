@@ -1,0 +1,75 @@
+{
+  "manifest_version": 3,
+  "name": "ChessHv3",
+  "version": "9.9",
+  "description": "Chess Helper Version 3",
+  "icons": {
+    "16": "icons/16.png",
+    "48": "icons/48.png",
+    "128": "icons/128.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_icon": {
+      "16": "icons/16.png",
+      "48": "icons/48.png",
+      "128": "icons/128.png"
+    }
+  },
+  "permissions": [
+    "activeTab",
+    "debugger",
+    "windows",
+    "offscreen",
+    "tabs",
+    "webNavigation",
+    "storage",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://www.chess.com/*",
+    "https://chess.com/*",
+    "https://*.chess.com/*",
+    "https://api.timezonedb.com/*",
+    "https://raw.githubusercontent.com/*",
+    "https://api.github.com/*",
+    "https://lichess.org/*",
+    "https://worldchess.com/*",
+    "https://fonts.googleapis.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "alert.js",
+        "lib/chess_min.js",
+        "content.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "a.js",
+        "b.js",
+        "lib/chess_min.js",
+        "lib/dragon3.3.wasm",
+        "lib/stockfish.wasm",
+        "lib/torch.wasm",
+        "book/book.bin",
+        "book/*"
+      ],
+      "matches": [
+        "<all_urls>"
+      ]
+    }
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self' 'wasm-unsafe-eval'; object-src 'self';"
+  }
+}
