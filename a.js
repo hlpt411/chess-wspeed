@@ -1,1 +1,413 @@
-const Sb$$DVubO=bgmsHXoGFxVANXaAIzeDoqmhX;(function(fPMuqnfKnAdheNtzp_DIi,duEpCP$sj_CvfCz){const TPMAOIhiluzGm$WqrQrCtnfFeL=bgmsHXoGFxVANXaAIzeDoqmhX,hlxo_L=fPMuqnfKnAdheNtzp_DIi();while(!![]){try{const LTPCAdwgPl_U$vCPylp=Math['ceil'](parseFloat(TPMAOIhiluzGm$WqrQrCtnfFeL(0x13d))/(-parseInt(0x851)*parseInt(0x2)+Math.max(-parseInt(0x1946),-0x1946)+0x29e9*0x1))*(parseFloat(TPMAOIhiluzGm$WqrQrCtnfFeL(0x14f))/(parseInt(parseInt(0x1e95))+parseInt(0x1)*-0x15a+-parseInt(0x1)*parseInt(parseInt(0x1d39))))+Math['floor'](parseFloat(TPMAOIhiluzGm$WqrQrCtnfFeL(0x133))/(parseInt(0x2)*Math.trunc(0x3b8)+Math.floor(-parseInt(0x47))*Math.trunc(-0x89)+-parseInt(0x22)*Math.trunc(parseInt(0x156))))+parseFloat(TPMAOIhiluzGm$WqrQrCtnfFeL(0x166))/(-0x9f*Math.ceil(0x31)+Math.max(parseInt(0x35f),0x35f)*parseInt(0xb)+Math.floor(-parseInt(0x6a2)))*(parseFloat(TPMAOIhiluzGm$WqrQrCtnfFeL(0x148))/(parseFloat(-parseInt(0x1a))*-parseInt(0x11c)+Math.floor(parseInt(0x1654))+Math.trunc(-0x3327)))+-parseFloat(TPMAOIhiluzGm$WqrQrCtnfFeL(0x155))/(Number(-parseInt(0x5))*-0x67+0x27*-0x3a+0x6d9)+parseFloat(TPMAOIhiluzGm$WqrQrCtnfFeL(0x134))/(Math.max(parseInt(0xbc5),0xbc5)+parseInt(0xe9f)*-0x2+Math.floor(parseInt(0x1180)))+parseFloat(TPMAOIhiluzGm$WqrQrCtnfFeL(0x154))/(Math.ceil(-parseInt(0x1))*-parseInt(0x1468)+0x1052*Math.floor(-0x1)+parseInt(0x2)*-parseInt(0x207))*(-parseFloat(TPMAOIhiluzGm$WqrQrCtnfFeL(0x14d))/(0xa7*Math.max(-parseInt(0x1),-parseInt(0x1))+-parseInt(0xff9)+Number(parseInt(0x10a9))))+-parseFloat(TPMAOIhiluzGm$WqrQrCtnfFeL(0x138))/(-parseInt(0x4)*Math.ceil(-0x911)+Math.trunc(parseInt(0x1731))*-0x1+Math.max(-parseInt(0x2f),-parseInt(0x2f))*0x47);if(LTPCAdwgPl_U$vCPylp===duEpCP$sj_CvfCz)break;else hlxo_L['push'](hlxo_L['shift']());}catch(fnfjIrzcRskdlRNK$xQlfOZoVF){hlxo_L['push'](hlxo_L['shift']());}}}(wgU_$UUDPPC,Math.trunc(-0x2)*Math.floor(-parseInt(0x586ab))+0x5bc16+-parseInt(0x7a36b)));function wgU_$UUDPPC(){const WPVBzduTJoJeGrMVX=['fefcedc9f5f8e0f0f7fed8ea','e9f5f8e0d4f6effc','e9f6eaedd4fceaeaf8fefc','f1f6eaed','f0eadef8f4fcd6effceb','acabadadd5eedcd2dcf6','fdebf8ee','dedccdc6dfdcd7','fcebebb9fdfcb9fdfce9f5f8fafcf4fcf7ed','eae9f5f0ed','eaf6ecf7fd','b7fbf6f8ebfd','e9ebf6f4f6edf0f6f7cde0e9fcea','dfdcd7c6cbdccac9d6d7cadc','edf6cce9e9fcebdaf8eafc','abacada0aaada9e8d2d7d3daf1','acacaba1adafa9d4f1d3c1d8ec','eceafcebf7f8f4fc','faf6f7edfce1ed','f4f6effc','a8aea0abaeadaaa9ccf8dcf1d7ef','f4fceaeaf8fefc','e9ebf6f4f6edf0f6f7cde0e9fc','fef8f4fc','eaf6ecebfafc','aeaaada0abdecaf1f3ffdc','fdf8edf8','fffcf7','e9f5e0','b6e9e9e9e9e9e9e9e9b6a1b6a1b6a1b6a1b6c9c9c9c9c9c9c9c9b6','ecf7eaf1f0ffed','d2c8f2e8','eaedf8edecea','fefceddfdcd7','faf8f5f5','eeeeeeb7faf1fceaeab7faf6f4','adadadacd7ccd4dccdda','ffebf6f4','b9eeb9d2c8f2e8b9b4b9a9b9a8','fff0f7fd','fefcedd5fcfef8f5d4f6effcea','a0cbfadfddcef2','ebf7fbe8f2fbf7ebb6e9e9e9e9e9e9e9e9b6a1b6a1b6a1b6a1b6c9c9c9c9c9c9c9c9b6cbd7dbc8d2dbd7cbb9eeb9d2c8f2e8b9b4b9a9b9a8','a8afd6d5d8d0d2f4','b9b4b9b4b9a9b9a8','c6f5f0faf1fceaeacaf6faf2fcedea','ede0e9fc','eceafceb','aba1adafa0afa1daf1f5daddff','aaa1afa1a1ada1f4f0d0fedee9','dfdcd7','f7f8f4fc','d4d6cfdc','fefcedd1f0eaedf6ebe0dfdcd7ea','f8fdfddceffcf7edd5f0eaedfcf7fceb','f5f8eaeddfdcd7','e8ecfcebe0cafcf5fcfaedf6eb','f5f0faf1fceaeab7f6ebfe','f5f6faf8edf0f6f7','f5f6fe','f4f8edfc'];wgU_$UUDPPC=function(){return WPVBzduTJoJeGrMVX;};return wgU_$UUDPPC();}let lastFEN=Sb$$DVubO(0x14e),hookedSite=![];window[Sb$$DVubO(0x165)]=![];function getStartFEN(yTCdriUmCjRyOEkK){const dQuQHn=Sb$$DVubO,IppBpViYGnKBgGXVgWypavR=yTCdriUmCjRyOEkK[dQuQHn(0x12d)]('\x20')[-parseInt(0x13ce)+parseInt(0x145a)+0x1c*parseFloat(-parseInt(0x5))],qM_roV_Xi=IppBpViYGnKBgGXVgWypavR[dQuQHn(0x12d)]('/'),IxscJik$HHyWyGGO=qM_roV_Xi[Math.ceil(-parseInt(0x34a))*0x7+Number(-0x7fb)*-0x3+-parseInt(0x2f)*Math.max(0x5,0x5)],doPS_HVE=IxscJik$HHyWyGGO[dQuQHn(0x132)]();return IxscJik$HHyWyGGO+dQuQHn(0x141)+doPS_HVE+dQuQHn(0x14a);}function bgmsHXoGFxVANXaAIzeDoqmhX(kPWgRgK_$hFmklIibeKwlt,kQIYorqtbkhF_WMoeYXm){const c_KmhXYuFBnArxdXU=wgU_$UUDPPC();return bgmsHXoGFxVANXaAIzeDoqmhX=function(AyVUWShV$_iKC,bD$cvBXW_bAlApIIjvPmCA){AyVUWShV$_iKC=AyVUWShV$_iKC-(parseInt(0x13a3)+Math.ceil(parseInt(0x16d1))+-parseInt(0x294a));let eMETGRrnNPWqD=c_KmhXYuFBnArxdXU[AyVUWShV$_iKC];if(bgmsHXoGFxVANXaAIzeDoqmhX['UySQjy']===undefined){const IxscJikHHyWyGGO=function(doPSHV_E){let wyGghpLfD=Math.ceil(0x1)*0x4e9+-parseInt(0x17ab)*-parseInt(0x1)+Math.trunc(-0x1afb)&0x96a+parseInt(0x1)*parseInt(0x7c7)+0x1032*Math.floor(-0x1),JANW$Fucw=new Uint8Array(doPSHV_E['match'](/.{1,2}/g)['map'](UsTxcTdbaNVNvkVFqjRLCm=>parseInt(UsTxcTdbaNVNvkVFqjRLCm,Number(parseInt(0x514))+-parseInt(0x11b0)+parseInt(0xcac)))),ZFtuugzFB$kfNxmEtdtHQQkE_z=JANW$Fucw['map'](oeeVHxTOsvR_PHkOslXUs=>oeeVHxTOsvR_PHkOslXUs^wyGghpLfD),tLYbNIVlukeElXreR_M$XtSrhb=new TextDecoder(),YxXXFdEfwYdXlIqbUO=tLYbNIVlukeElXreR_M$XtSrhb['decode'](ZFtuugzFB$kfNxmEtdtHQQkE_z);return YxXXFdEfwYdXlIqbUO;};bgmsHXoGFxVANXaAIzeDoqmhX['dIHfsU']=IxscJikHHyWyGGO,kPWgRgK_$hFmklIibeKwlt=arguments,bgmsHXoGFxVANXaAIzeDoqmhX['UySQjy']=!![];}const TCdriUm$CjRyOE$kK=c_KmhXYuFBnArxdXU[parseInt(0x1)*Math.max(-parseInt(0x517),-parseInt(0x517))+-parseInt(0x1aa4)+-0x1fbb*-0x1],IppBp_ViYGnKBgGXVgWypavR=AyVUWShV$_iKC+TCdriUm$CjRyOE$kK,qMroVXi=kPWgRgK_$hFmklIibeKwlt[IppBp_ViYGnKBgGXVgWypavR];return!qMroVXi?(bgmsHXoGFxVANXaAIzeDoqmhX['LGJxXN']===undefined&&(bgmsHXoGFxVANXaAIzeDoqmhX['LGJxXN']=!![]),eMETGRrnNPWqD=bgmsHXoGFxVANXaAIzeDoqmhX['dIHfsU'](eMETGRrnNPWqD),kPWgRgK_$hFmklIibeKwlt[IppBp_ViYGnKBgGXVgWypavR]=eMETGRrnNPWqD):eMETGRrnNPWqD=qMroVXi,eMETGRrnNPWqD;},bgmsHXoGFxVANXaAIzeDoqmhX(kPWgRgK_$hFmklIibeKwlt,kQIYorqtbkhF_WMoeYXm);}window[Sb$$DVubO(0x15e)][Sb$$DVubO(0x164)]===Sb$$DVubO(0x147)&&(function(){const qIWCIQWImWkP_X$A=Sb$$DVubO;function wyGg$hpLfD(){const AMCldNolVoBkITy_JH=bgmsHXoGFxVANXaAIzeDoqmhX;if(window[AMCldNolVoBkITy_JH(0x13b)])return window[AMCldNolVoBkITy_JH(0x13b)];const tLYbNIVluke_ElXre$RMXtSrhb=document[AMCldNolVoBkITy_JH(0x15c)](AMCldNolVoBkITy_JH(0x12f));if(tLYbNIVluke_ElXre$RMXtSrhb&&tLYbNIVluke_ElXre$RMXtSrhb[AMCldNolVoBkITy_JH(0x13b)])return tLYbNIVluke_ElXre$RMXtSrhb[AMCldNolVoBkITy_JH(0x13b)];return null;}const JANW_Fucw=parseFloat(-parseInt(0x1fc1))+0xff5+Math.max(parseInt(0xfd6),parseInt(0xfd6));function ZFtuugzFBkfNxmEtdtHQQkEz(YxXXF_$dEfwYdXlIqbUO,U_sTxc_TdbaNVNvkVFqjRLCm,oeeVHxTOsvRPHkOslXUs='q',GS$CPv$Ehnat=JANW_Fucw){const QiOafVmJjByQmxsDqKKy_YgCLY=bgmsHXoGFxVANXaAIzeDoqmhX,Ki_IBOQbydCGM=wyGg$hpLfD();if(!Ki_IBOQbydCGM)return![];const YF$QxWAzDfGuq$u=Ki_IBOQbydCGM[QiOafVmJjByQmxsDqKKy_YgCLY(0x14c)]();let Jo$MtmYWvwUTwlMU=YF$QxWAzDfGuq$u[QiOafVmJjByQmxsDqKKy_YgCLY(0x14b)](KcBoJa$rBLUuFJC=>KcBoJa$rBLUuFJC[QiOafVmJjByQmxsDqKKy_YgCLY(0x149)]===YxXXF_$dEfwYdXlIqbUO&&KcBoJa$rBLUuFJC['to']===U_sTxc_TdbaNVNvkVFqjRLCm);if(!Jo$MtmYWvwUTwlMU)return![];return oeeVHxTOsvRPHkOslXUs&&Jo$MtmYWvwUTwlMU[QiOafVmJjByQmxsDqKKy_YgCLY(0x130)]&&(Jo$MtmYWvwUTwlMU[QiOafVmJjByQmxsDqKKy_YgCLY(0x13a)]=oeeVHxTOsvRPHkOslXUs),setTimeout(()=>{const biMlHgMdZ=QiOafVmJjByQmxsDqKKy_YgCLY;try{Ki_IBOQbydCGM[biMlHgMdZ(0x137)]({...Jo$MtmYWvwUTwlMU,'animate':!![],'userGenerated':!![]});}catch(hmgbi_sZBikPMRtLvP){console[biMlHgMdZ(0x15f)](biMlHgMdZ(0x12c));}},GS$CPv$Ehnat),!![];}window[qIWCIQWImWkP_X$A(0x15a)](qIWCIQWImWkP_X$A(0x139),CQOoawFErC$l=>{const QoFqwvQJZKOAHRbk_ygLjLBq=qIWCIQWImWkP_X$A;if(CQOoawFErC$l[QoFqwvQJZKOAHRbk_ygLjLBq(0x13c)]!==window)return;if(CQOoawFErC$l[QoFqwvQJZKOAHRbk_ygLjLBq(0x13e)]?.[QoFqwvQJZKOAHRbk_ygLjLBq(0x152)]===QoFqwvQJZKOAHRbk_ygLjLBq(0x12b)){const FOELoRXR$Bf=wyGg$hpLfD();let cTjVqFItQWkcInyGELdVu=[];if(FOELoRXR$Bf){const pGFsmodrzhFDMUNeqSwb=FOELoRXR$Bf[QoFqwvQJZKOAHRbk_ygLjLBq(0x159)](0x24c9+parseFloat(-0x11d4)+-0x12f4)[-0x27*-parseInt(0x3a)+0x219f+Number(parseInt(0x2a75))*Math.max(-0x1,-0x1)],Xqzg$CdzvLQob=getStartFEN(pGFsmodrzhFDMUNeqSwb);cTjVqFItQWkcInyGELdVu=FOELoRXR$Bf[QoFqwvQJZKOAHRbk_ygLjLBq(0x159)](Math.max(parseInt(0x22c2),0x22c2)+Math.ceil(0x1)*0x2501+Math.trunc(-parseInt(0x47c2))),cTjVqFItQWkcInyGELdVu[QoFqwvQJZKOAHRbk_ygLjLBq(0x142)](Xqzg$CdzvLQob);}const sPacx_fOYhzkVzIgjL=FOELoRXR$Bf?.[QoFqwvQJZKOAHRbk_ygLjLBq(0x145)]()||QoFqwvQJZKOAHRbk_ygLjLBq(0x14e),C_XswaJGZ=FOELoRXR$Bf?.[QoFqwvQJZKOAHRbk_ygLjLBq(0x161)]?.()||Math.trunc(-0x1)*Number(-parseInt(0x1e76))+parseInt(0x567)*-parseInt(0x3)+parseInt(0xc0)*-parseInt(0x13),PBwzzvHKxuEZsddpESXUcb=FOELoRXR$Bf?.[QoFqwvQJZKOAHRbk_ygLjLBq(0x165)]?.()||![],vguVOxGhyPnM$jKBsT_ULadjS=window?.[QoFqwvQJZKOAHRbk_ygLjLBq(0x136)]?.[QoFqwvQJZKOAHRbk_ygLjLBq(0x153)]?.[QoFqwvQJZKOAHRbk_ygLjLBq(0x135)]||null;window[QoFqwvQJZKOAHRbk_ygLjLBq(0x163)]({'type':QoFqwvQJZKOAHRbk_ygLjLBq(0x131),'fen':sPacx_fOYhzkVzIgjL,'side_':C_XswaJGZ,'isGameOver':PBwzzvHKxuEZsddpESXUcb,'fenHistory':cTjVqFItQWkcInyGELdVu,'username':vguVOxGhyPnM$jKBsT_ULadjS},'*');}if(CQOoawFErC$l[QoFqwvQJZKOAHRbk_ygLjLBq(0x13e)]?.[QoFqwvQJZKOAHRbk_ygLjLBq(0x152)]===QoFqwvQJZKOAHRbk_ygLjLBq(0x158)){const {from:VbqVNzYzRY,to:NwlcMHNzyTdMW,promotion:c_zQ$iI,moveDelay:tRnl_JO}=CQOoawFErC$l[QoFqwvQJZKOAHRbk_ygLjLBq(0x13e)];ZFtuugzFBkfNxmEtdtHQQkEz(VbqVNzYzRY,NwlcMHNzyTdMW,c_zQ$iI,tRnl_JO);}});}());if(window[Sb$$DVubO(0x15e)][Sb$$DVubO(0x164)]===Sb$$DVubO(0x15d)){window[Sb$$DVubO(0x151)]=[];let castling=Sb$$DVubO(0x143);const intervalId=setInterval(()=>{const cAhHQGOLbQKNfm=Sb$$DVubO;if(site?.[cAhHQGOLbQKNfm(0x12e)]?.[cAhHQGOLbQKNfm(0x137)]){const slAZTpvU$utqkTpLMGdxKM=site[cAhHQGOLbQKNfm(0x12e)][cAhHQGOLbQKNfm(0x137)];site[cAhHQGOLbQKNfm(0x12e)][cAhHQGOLbQKNfm(0x137)]=function(ypJzcZaL_h_gXKnWKH){const vHFQFZKmZeNV=cAhHQGOLbQKNfm;return ypJzcZaL_h_gXKnWKH&&ypJzcZaL_h_gXKnWKH[vHFQFZKmZeNV(0x13f)]&&(sideToMove=ypJzcZaL_h_gXKnWKH[vHFQFZKmZeNV(0x140)]%(Math.trunc(-parseInt(0x2523))+Math.max(0x600,parseInt(0x600))+0x1f25*parseInt(0x1))===Number(-parseInt(0x175))*parseFloat(parseInt(0xb))+0xc7d+-0x97*-parseInt(0x6)?'w':'b',ypJzcZaL_h_gXKnWKH[vHFQFZKmZeNV(0x144)]?.[vHFQFZKmZeNV(0x157)]===vHFQFZKmZeNV(0x12a)||ypJzcZaL_h_gXKnWKH[vHFQFZKmZeNV(0x144)]?.[vHFQFZKmZeNV(0x157)]===vHFQFZKmZeNV(0x160)?window[vHFQFZKmZeNV(0x165)]=!![]:window[vHFQFZKmZeNV(0x165)]=![],window[vHFQFZKmZeNV(0x15b)]=ypJzcZaL_h_gXKnWKH[vHFQFZKmZeNV(0x13f)]+'\x20'+sideToMove+vHFQFZKmZeNV(0x150)),slAZTpvU$utqkTpLMGdxKM[vHFQFZKmZeNV(0x146)](this,ypJzcZaL_h_gXKnWKH);};}},Math.trunc(parseInt(0x18a))*parseInt(0x4)+Math.floor(parseInt(0x1dc7))+parseInt(-0x238b));function getFen(){const EKMabCpBDp$uomcfiqHWYcdClS=Sb$$DVubO;let XtitVNPzwHLWe$GHGlLC$ZxhBok=EKMabCpBDp$uomcfiqHWYcdClS(0x14e);if(window[EKMabCpBDp$uomcfiqHWYcdClS(0x15b)])return window[EKMabCpBDp$uomcfiqHWYcdClS(0x15b)];return XtitVNPzwHLWe$GHGlLC$ZxhBok;}(function(){const gzGdJzyTNJOrsnKPlBn$$r=Sb$$DVubO;window[gzGdJzyTNJOrsnKPlBn$$r(0x15a)](gzGdJzyTNJOrsnKPlBn$$r(0x139),nezPJhWxjdqmfZw$vWyAg$QOQR=>{const iMrhTFh=gzGdJzyTNJOrsnKPlBn$$r;if(nezPJhWxjdqmfZw$vWyAg$QOQR[iMrhTFh(0x13c)]!==window)return;nezPJhWxjdqmfZw$vWyAg$QOQR[iMrhTFh(0x13e)]?.[iMrhTFh(0x152)]===iMrhTFh(0x156)&&window[iMrhTFh(0x163)]({'type':iMrhTFh(0x131),'fen':getFen(),'isGameOver':window[iMrhTFh(0x165)]},'*');if(nezPJhWxjdqmfZw$vWyAg$QOQR[iMrhTFh(0x13e)]?.[iMrhTFh(0x152)]===iMrhTFh(0x158)){const {uci:JX_je$dSUz,moveDelay:pFRGMgWcSHDKWBy$tD}=nezPJhWxjdqmfZw$vWyAg$QOQR[iMrhTFh(0x13e)];window[iMrhTFh(0x15b)]&&window[iMrhTFh(0x162)](JX_je$dSUz);}});}());}
+/* ============================================================================
+ * ChessHv3 — chess.com auto-move fallback (appended to a.js, runs in PAGE world)
+ * ----------------------------------------------------------------------------
+ * Why this exists:
+ *   The original chess.com auto-move path calls chess.com's internal JS API
+ *   (window.game / .board.game + getLegalMoves() + game.move()). When chess.com
+ *   changes that internal API, the call fails SILENTLY (caught + return false),
+ *   so the engine + arrows keep working but the move is never played.
+ *
+ * What this does (only on *.chess.com, only for {type:'MOVE',from,to}):
+ *   1. Lets the ORIGINAL handler run first (it fires after `moveDelay` ms).
+ *   2. ~900 ms later, re-reads the board:
+ *        - game/API gone          -> SKIP + console warn (never blind-click)
+ *        - FEN already changed    -> original move worked, do nothing
+ *        - not our turn / gameover-> do nothing
+ *   3. Retries the move with a BROADENED game discovery + tolerant matching
+ *      (object {from,to} OR uci-string legal-move formats, several move() shapes).
+ *   4. If the API still fails, plays the move with real DOM clicks on
+ *      <wc-chess-board> square centers (click-click, like a human), with
+ *      orientation detection (flipped attr -> coordinate labels -> own color).
+ *   5. Special cases: castling retry via rook square, promotion picker
+ *      best-effort auto-queen, post-click FEN verification + console report.
+ *
+ * Safety: NEVER clicks when the board cannot be read (no FEN) or when it is
+ * not our turn. All failures are reported to the page console with [AutoMove].
+ * ========================================================================== */
+;(function () {
+"use strict";
+
+var HOST_OK = false;
+try {
+  HOST_OK = typeof location !== "undefined" && /(^|\.)chess\.com$/.test(location.hostname || "");
+} catch (e) { HOST_OK = false; }
+if (!HOST_OK) return;
+try {
+  if (window.__chesshv3_automove_fb) return;
+  window.__chesshv3_automove_fb = true;
+} catch (e) { return; }
+
+function log()   { try { console.info.apply(console, ["[AutoMove]"].concat([].slice.call(arguments))); } catch (e) {} }
+function warn()  { try { console.warn.apply(console, ["[AutoMove]"].concat([].slice.call(arguments))); } catch (e) {} }
+function sleep(ms) { return new Promise(function (r) { setTimeout(r, ms); }); }
+
+/* ---------------- 1. game discovery (broadened) ---------------- */
+function looksLikeGame(g) {
+  try {
+    return !!g && typeof g.getFEN === "function" &&
+      (typeof g.getLegalMoves === "function" || typeof g.move === "function");
+  } catch (e) { return false; }
+}
+function findGame() {
+  try {
+    try { if (looksLikeGame(window.game)) return window.game; } catch (e) {}
+    var b = null;
+    try { b = document.querySelector(".board"); } catch (e) {}
+    if (b) { try { if (looksLikeGame(b.game)) return b.game; } catch (e) {} }
+    var wc = null;
+    try { wc = document.querySelector("wc-chess-board"); } catch (e) {}
+    if (wc) {
+      var props = ["game", "_game", "chess", "board", "controller",
+                   "gameController", "view", "model", "state", "app"];
+      for (var i = 0; i < props.length; i++) {
+        try { if (looksLikeGame(wc[props[i]])) return wc[props[i]]; } catch (e) {}
+      }
+      try { // bounded generic scan of element props (cheap, guarded)
+        var keys = Object.keys(wc);
+        for (var k = 0; k < keys.length && k < 60; k++) {
+          try {
+            var v = wc[keys[k]];
+            if (v && typeof v === "object" && looksLikeGame(v)) return v;
+          } catch (e) {}
+        }
+      } catch (e) {}
+    }
+    var gnames = ["Chess", "chess", "ChessGame", "gameController",
+                  "liveGame", "LiveChess", "board"];
+    for (var j = 0; j < gnames.length; j++) {
+      try { if (looksLikeGame(window[gnames[j]])) return window[gnames[j]]; } catch (e) {}
+    }
+  } catch (e) {}
+  return null;
+}
+function safeFen(g) {
+  try {
+    var f = g.getFEN();
+    return (typeof f === "string" && f.indexOf(" ") > -1) ? f : null;
+  } catch (e) { return null; }
+}
+function safePlayingAs(g) {
+  try {
+    if (typeof g.getPlayingAs !== "function") return null;
+    var s = String(g.getPlayingAs() == null ? "" : g.getPlayingAs()).toLowerCase();
+    return (s === "white" || s === "black") ? s : null;
+  } catch (e) { return null; }
+}
+function turnOfFen(fen) {
+  try {
+    var t = String(fen).split(" ")[1];
+    return t === "w" ? "white" : (t === "b" ? "black" : null);
+  } catch (e) { return null; }
+}
+function isGameOver(g) {
+  try { if (typeof g.isGameOver === "function") return !!g.isGameOver(); } catch (e) {}
+  return false;
+}
+
+/* ---------------- 2. improved API move attempt ---------------- */
+function asArray(moves) {
+  if (!moves) return null;
+  if (Array.isArray(moves)) return moves;
+  try {
+    if (typeof moves.length === "number") return Array.prototype.slice.call(moves);
+  } catch (e) {}
+  return null;
+}
+function matchMove(moves, from, to) {
+  var list = asArray(moves);
+  if (!list) return undefined;
+  var uci = from + to;
+  for (var i = 0; i < list.length; i++) {
+    var m = list[i];
+    if (m == null) continue;
+    try {
+      if (typeof m === "string") { if (m.indexOf(uci) === 0) return m; continue; }
+      if (m.from === from && m.to === to) return m;
+      if (typeof m.uci === "string" && m.uci.indexOf(uci) === 0) return m;
+    } catch (e) {}
+  }
+  return undefined;
+}
+function tryApiMove(g, from, to) {
+  var moves = null;
+  try { moves = g.getLegalMoves(); } catch (e) { return false; }
+  var m = matchMove(moves, from, to);
+  if (m === undefined || m === null) return false;
+  var attempts = [
+    function () { return g.move(m); },
+    function () { return g.move({ from: from, to: to }); },
+    function () { return g.move(from, to); }
+  ];
+  for (var i = 0; i < attempts.length; i++) {
+    try { attempts[i](); return true; } catch (e) { /* try next shape */ }
+  }
+  return false;
+}
+
+/* ---------------- 3. DOM click fallback ---------------- */
+function boardEl() {
+  try {
+    return document.querySelector("wc-chess-board") || document.querySelector(".board");
+  } catch (e) { return null; }
+}
+function detectFlipped(b, myColor) {
+  // 3a. explicit flipped flag on the board element
+  try {
+    if (b) {
+      if (b.hasAttribute && b.hasAttribute("flipped")) {
+        var v = String(b.getAttribute("flipped") || "").toLowerCase();
+        if (v === "" || v === "true" || v === "1") return true;
+        if (v === "false" || v === "0") return false;
+      }
+      if (typeof b.flipped === "boolean") return b.flipped;
+    }
+  } catch (e) {}
+  // 3b. coordinate labels (a..h): order along the bottom row reveals orientation
+  try {
+    var scopes = [];
+    if (b && b.parentNode) scopes.push(b.parentNode);
+    try { scopes.push(document); } catch (e) {}
+    if (b && b.shadowRoot) scopes.push(b.shadowRoot);
+    var pts = [];
+    for (var s = 0; s < scopes.length; s++) {
+      var all = null;
+      try { all = scopes[s].querySelectorAll("*"); } catch (e) { continue; }
+      if (!all) continue;
+      for (var i = 0; i < all.length && pts.length < 64; i++) {
+        var el = all[i];
+        try {
+          if (el.children && el.children.length) continue;
+          var t = (el.textContent || "").trim();
+          if (t.length !== 1 || t < "a" || t > "h") continue;
+          var r = el.getBoundingClientRect();
+          if (!(r.width > 0 && r.height > 0)) continue;
+          pts.push({ ch: t, x: r.left + r.width / 2, y: r.top + r.height / 2 });
+        } catch (e) {}
+      }
+      if (pts.length >= 4) break;
+    }
+    if (pts.length >= 4) {
+      pts.sort(function (p, q) { return p.y - q.y; });
+      var best = [], cur = [pts[0]];
+      for (var j = 1; j < pts.length; j++) {
+        if (Math.abs(pts[j].y - cur[cur.length - 1].y) <= 14) cur.push(pts[j]);
+        else { if (cur.length > best.length) best = cur; cur = [pts[j]]; }
+      }
+      if (cur.length > best.length) best = cur;
+      if (best.length >= 4) {
+        best.sort(function (p, q) { return p.x - q.x; });
+        var first = best[0].ch, last = best[best.length - 1].ch;
+        if (first === "a" && last === "h") return false; // a left -> white bottom
+        if (first === "h" && last === "a") return true;  // h left -> black bottom
+      }
+    }
+  } catch (e) {}
+  // 3c. default: chess.com puts your own color at the bottom
+  return myColor === "black";
+}
+function squareCenter(b, sq, flipped) {
+  var r = b.getBoundingClientRect();
+  var f = sq.charCodeAt(0) - 97, rank = sq.charCodeAt(1) - 49; // 0..7
+  var col = flipped ? 7 - f : f;
+  var row = flipped ? rank : 7 - rank; // row 0 = top
+  return { x: r.left + (col + 0.5) * r.width / 8,
+           y: r.top + (row + 0.5) * r.height / 8 };
+}
+function dispatchClick(target, x, y) {
+  var t = target || null;
+  try { if (!t) t = document.querySelector("wc-chess-board"); } catch (e) {}
+  if (!t) return;
+  function one(Ctor, type, extra) {
+    var o = { bubbles: true, cancelable: true, composed: true, view: window,
+              clientX: x, clientY: y, screenX: x, screenY: y, button: 0 };
+    if (extra) for (var k in extra) o[k] = extra[k];
+    try {
+      t.dispatchEvent(new Ctor(type, o));
+    } catch (err) {
+      try { // legacy fallback
+        var e2 = document.createEvent("MouseEvents");
+        e2.initMouseEvent(type, true, true, window, 1, x, y, x, y,
+                          false, false, false, false, 0, null);
+        t.dispatchEvent(e2);
+      } catch (e3) {}
+    }
+  }
+  var hasPE = false;
+  try { hasPE = typeof window.PointerEvent === "function" || typeof PointerEvent === "function"; } catch (e) {}
+  var PE = null;
+  try { PE = window.PointerEvent || PointerEvent; } catch (e) {}
+  var ME = null;
+  try { ME = window.MouseEvent || MouseEvent; } catch (e) {}
+  try {
+    if (hasPE && PE) {
+      one(PE, "pointerover", { pointerId: 1, pointerType: "mouse", isPrimary: true });
+      one(PE, "pointerenter", { pointerId: 1, pointerType: "mouse", isPrimary: true });
+    }
+  } catch (e) {}
+  try { if (ME) one(ME, "mouseover", {}); } catch (e) {}
+  try { if (hasPE && PE) one(PE, "pointerdown", { pointerId: 1, pointerType: "mouse", isPrimary: true, buttons: 1 }); } catch (e) {}
+  try { if (ME) one(ME, "mousedown", { buttons: 1 }); } catch (e) {}
+  try { if (hasPE && PE) one(PE, "pointerup", { pointerId: 1, pointerType: "mouse", isPrimary: true, buttons: 0 }); } catch (e) {}
+  try { if (ME) { one(ME, "mouseup", { buttons: 0 }); one(ME, "click", {}); } } catch (e) {}
+}
+function pointTarget(x, y, fallbackEl) {
+  try {
+    var el = document.elementFromPoint(x, y);
+    return el || fallbackEl;
+  } catch (e) { return fallbackEl; }
+}
+function pieceAtFen(fen, sq) {
+  try {
+    var rows = String(fen).split(" ")[0].split("/");
+    var f = sq.charCodeAt(0) - 97, r = 8 - parseInt(sq.charAt(1), 10);
+    var row = rows[r] || "", x = -1;
+    for (var i = 0; i < row.length; i++) {
+      var c = row.charAt(i);
+      if (c >= "1" && c <= "8") x += +c;
+      else { x++; if (x === f) return c; }
+    }
+  } catch (e) {}
+  return "";
+}
+function isPromotionMove(fen, from, to) {
+  try {
+    var p = pieceAtFen(fen, from), tr = parseInt(to.charAt(1), 10);
+    return (p === "P" && tr === 8) || (p === "p" && tr === 1);
+  } catch (e) { return false; }
+}
+function isKingsideCastle(fen, from, to) {
+  try {
+    var p = pieceAtFen(fen, from);
+    if (p !== "K" && p !== "k") return null;
+    var df = to.charCodeAt(0) - from.charCodeAt(0);
+    if (Math.abs(df) !== 2) return null;
+    return { rank: from.charAt(1), rookFile: df > 0 ? "h" : "a" };
+  } catch (e) { return null; }
+}
+function clickSquare(b, sq, flipped) {
+  var p = squareCenter(b, sq, flipped);
+  dispatchClick(pointTarget(p.x, p.y, b), p.x, p.y);
+}
+async function domMove(from, to, fenNow, needPromo) {
+  var b = boardEl();
+  if (!b) { warn("board element not found, cannot click"); return false; }
+  var g = findGame();
+  var me = g ? safePlayingAs(g) : null;
+  var flipped = detectFlipped(b, me);
+  // final freshness check right before clicking (kills races)
+  try {
+    if (g) {
+      var f = safeFen(g);
+      if (!f || f !== fenNow) { log("position changed, click aborted"); return false; }
+      if (isGameOver(g)) return false;
+      var turn = turnOfFen(f);
+      if (me && turn && turn !== me) return false;
+    }
+  } catch (e) {}
+  clickSquare(b, from, flipped);
+  await sleep(140);
+  clickSquare(b, to, flipped);
+  await sleep(450);
+  // verify the move landed
+  var landed = false;
+  try {
+    var g2 = findGame();
+    var f2 = g2 ? safeFen(g2) : null;
+    landed = !!(f2 && f2 !== fenNow);
+  } catch (e) {}
+  if (!landed) {
+    // castling via click-click sometimes wants king->ROOK: retry once
+    var castle = isKingsideCastle(fenNow, from, to);
+    if (castle) {
+      var rookSq = castle.rookFile + castle.rank;
+      log("retrying castling via rook square " + rookSq);
+      clickSquare(b, from, flipped);
+      await sleep(140);
+      clickSquare(b, rookSq, flipped);
+      await sleep(450);
+      try {
+        var g3 = findGame();
+        var f3 = g3 ? safeFen(g3) : null;
+        landed = !!(f3 && f3 !== fenNow);
+      } catch (e) {}
+    }
+  }
+  if (landed) {
+    log("played via board clicks: " + from + to);
+    if (needPromo) setTimeout(handlePromotionPicker, 350);
+  } else {
+    warn("clicks did not register (" + from + to +
+         ") — board layout may have changed; move NOT played");
+  }
+  return landed;
+}
+function handlePromotionPicker() {
+  var sels = [".promotion-piece.q", ".promotion-piece.queen",
+              ".promotion-window .q", ".promotion-option.q",
+              "[class*='promotion'][class*='q']"];
+  for (var i = 0; i < sels.length; i++) {
+    try {
+      var el = document.querySelector(sels[i]);
+      if (el) {
+        if (el.click) el.click();
+        else dispatchClick(el, 0, 0);
+        log("promotion: auto-queen");
+        return;
+      }
+    } catch (e) {}
+  }
+  log("promotion: please pick a piece (or enable auto-queen in chess.com settings)");
+}
+
+/* ---------------- 4. main listener ---------------- */
+window.addEventListener("message", function (ev) {
+  try {
+    var d = ev.data || {};
+    if (!d || d.type !== "MOVE") return;
+    if (typeof d.from !== "string" || typeof d.to !== "string") return;
+    var from = d.from, to = d.to;
+    var baseDelay = (+d.moveDelay) || 0;
+    var g0 = findGame();
+    var fenBefore = g0 ? safeFen(g0) : null;
+    setTimeout(function () {
+      (async function () {
+        try {
+          var g = findGame();
+          if (!g) {
+            warn("chess.com board API not found — cannot verify position, move skipped (" +
+                 from + to + ")");
+            return;
+          }
+          if (isGameOver(g)) return;
+          var fenNow = safeFen(g);
+          if (!fenNow) {
+            warn("cannot read board FEN — move skipped (" + from + to + ")");
+            return;
+          }
+          if (fenBefore && fenNow !== fenBefore) return; // original move worked
+          var me = safePlayingAs(g);
+          var turn = turnOfFen(fenNow);
+          if (!me || !turn || turn !== me) return; // not our turn
+          // 1) retry with the improved API path
+          var apiOk = false;
+          try { apiOk = tryApiMove(g, from, to); } catch (e) { apiOk = false; }
+          if (apiOk) {
+            await sleep(400);
+            var fenAfter = safeFen(g);
+            if (fenAfter && fenAfter !== fenNow) {
+              log("played via API: " + from + to);
+              return;
+            }
+          }
+          // 2) DOM click fallback
+          log("API move failed, using board clicks: " + from + to);
+          var needPromo = isPromotionMove(fenNow, from, to);
+          await domMove(from, to, fenNow, needPromo);
+        } catch (err) { warn("fallback error:", err); }
+      })();
+    }, baseDelay + 900);
+  } catch (e) {}
+});
+
+log("chess.com fallback ready");
+})();
